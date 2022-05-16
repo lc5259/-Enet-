@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3aff7fa-96f6-42b8-b03c-e508dc80ec3a": {
+      "ProjectGuid": "d3aff7fa-96f6-42b8-b03c-e508dc80ec3a",
+      "DisplayName": "ENetCS",
+      "ColorIndex": 0
+    },
+    "e8f8c79f-557d-4454-a67b-996cf55f6bf2": {
+      "ProjectGuid": "e8f8c79f-557d-4454-a67b-996cf55f6bf2",
+      "DisplayName": "ENetDemo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

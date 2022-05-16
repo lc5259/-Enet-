@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\bin\x64\Debug\ENetServerdemo1.exe.config
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\bin\x64\Debug\ENetServerdemo1.exe
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\bin\x64\Debug\ENetServerdemo1.pdb
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\bin\x64\Debug\ENetCS.dll
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\obj\x64\Debug\ENetServerdemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\obj\x64\Debug\ENetServerdemo1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\obj\x64\Debug\ENetServerdemo1.csproj.CopyComplete
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\obj\x64\Debug\ENetServerdemo1.exe
+C:\Users\user\Desktop\Enet\Bplan\ENetSharp-master (1)\ENetSharp-master\ENetServerdemo1\ENetServerdemo1\obj\x64\Debug\ENetServerdemo1.pdb
